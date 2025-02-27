@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/maheshportfolio/static/css/main.58fd231a.css",
+    "main.js": "/maheshportfolio/static/js/main.0e20b98c.js",
+    "static/js/453.8317f770.chunk.js": "/maheshportfolio/static/js/453.8317f770.chunk.js",
+    "static/media/wiki.png": "/maheshportfolio/static/media/wiki.93ca452cccffa4d1d537.png",
+    "static/media/Booking.png": "/maheshportfolio/static/media/Booking.7deff7b6d3958e87b288.png",
+    "index.html": "/maheshportfolio/index.html",
+    "main.58fd231a.css.map": "/maheshportfolio/static/css/main.58fd231a.css.map",
+    "main.0e20b98c.js.map": "/maheshportfolio/static/js/main.0e20b98c.js.map",
+    "453.8317f770.chunk.js.map": "/maheshportfolio/static/js/453.8317f770.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58fd231a.css",
+    "static/js/main.0e20b98c.js"
+  ]
+}
